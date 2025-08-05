@@ -7,8 +7,8 @@
 Here’s a preview of the Nom Nom iOS app:
 
 <p float="left">
-  <img src="assets/screen1.png" width="30%" style="margin-right: 10px;" />
-  <img src="assets/screen2.png" width="30%" style="margin-right: 10px;" />
+  <img src="assets/screen1.png" width="30%" style="margin-right: 30px;" />
+  <img src="assets/screen2.png" width="30%" style="margin-right: 30px;" />
   <img src="assets/screen3.png" width="30%" />
 </p>
 
